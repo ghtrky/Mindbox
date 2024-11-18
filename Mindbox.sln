@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shapes", "MindBox\Shapes.csproj", "{22CA336E-D5AC-46A8-9FCD-B4E3FB75F8C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{9BD5C805-3B19-4C16-9F1E-D9ECC2159B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CA336E-D5AC-46A8-9FCD-B4E3FB75F8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CA336E-D5AC-46A8-9FCD-B4E3FB75F8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CA336E-D5AC-46A8-9FCD-B4E3FB75F8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CA336E-D5AC-46A8-9FCD-B4E3FB75F8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD5C805-3B19-4C16-9F1E-D9ECC2159B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD5C805-3B19-4C16-9F1E-D9ECC2159B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD5C805-3B19-4C16-9F1E-D9ECC2159B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD5C805-3B19-4C16-9F1E-D9ECC2159B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {519B393F-E9F0-4206-A12D-92D4AF3E5094}
+	EndGlobalSection
+EndGlobal
